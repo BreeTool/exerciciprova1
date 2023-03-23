@@ -1,4 +1,9 @@
 
 hola
 bon dia
+<<<<<<< HEAD
 que tal
+=======
+a vera que passa
+
+>>>>>>> 231063e (3)
